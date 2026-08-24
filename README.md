@@ -2,12 +2,11 @@
 
 **PIK/NGFS Scenario-Based Portfolio Climate Stress Testing and Climate-VaR Measurement**
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
-[![Streamlit](https://img.shields.io/badge/App-Streamlit-red)]()
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anthonylee03/climate-adjusted-credit-market-risk-engine/blob/main/colab_analysis.ipynb)
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14y4IMtyRo7oososN_oRRHZS26cGneZg4#scrollTo=1cdf2015)
 ---
+
 
 ## Overview
 
