@@ -3,10 +3,7 @@
 **PIK/NGFS Scenario-Based Portfolio Climate Stress Testing and Climate-VaR Measurement**
 
 
-[![Open In Colab](https://colab.research.google.com/drive/14y4IMtyRo7oososN_oRRHZS26cGneZg4)
----
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14y4IMtyRo7oososN_oRRHZS26cGneZg4)
 ---
 
 ## Overview
